@@ -58,7 +58,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+7. This is a test point
 <footer>
 
 <!--
